@@ -1,0 +1,4 @@
+baseURL = "/"
+languageCode = "en-us"
+theme = "hugo-theme-stack"
+title = "灰烬指南"
