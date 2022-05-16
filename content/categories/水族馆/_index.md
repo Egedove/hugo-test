@@ -1,8 +1,8 @@
 ---
-title: "水族馆"
-description: "意料之外但又情理之中。"
+title: "Aquaria"
+description: "Up is down."
 image: "aquaria.jpg"
 style:
-    background: "#2a9d8f"
+    background: "#15559a"
     color: "#fff"
 ---
